@@ -1,7 +1,9 @@
 ## 👋 Hello there!
  
 I'm a programming studant
+
 Analysis and Systems Development (2º Semester)
+
 I hope you enjoy it!
 
 -----------------------------------------------
