@@ -2,7 +2,6 @@
  
 # Welcome!
  
-## Eu sou o Pietro!
 Estudante de programação
 Cursando Análise e Desenvolvimento de Sistemas (2ºSemestre)
 
