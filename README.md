@@ -3,14 +3,14 @@
 #  Hello there!
 My name is Pietro! I'm a programming studant; Análise e Desenvolvimento de Sistemas (2ºSemestre)
 
-° 🕉️ Love
-- ° 🖥️ Techlogy
-- ° 🌎 Nature
-° 🧘 Meditation
-° 🎼 Music
-° ☮️ Peace
+-  🕉️ Love
+-  🖥️ Techlogy
+-  🌎 Nature
+-  🧘 Meditation
+-  🎼 Music
+-  ☮️ Peace
 
- 🇧🇷 - Brazil - Porto Alegre
+-  🇧🇷 - Brazil - Porto Alegre
 
 I hope you enjoy it!
 
