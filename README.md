@@ -1,7 +1,8 @@
-### 👋 Hello there!
+## 👋 Hello there!
  
 I'm a programming studant
 Analysis and Systems Development (2º Semester)
+I hope you enjoy it!
 
 -----------------------------------------------
 
@@ -13,9 +14,6 @@ Analysis and Systems Development (2º Semester)
 
 -  🇧🇷 - Brazil - Porto Alegre
 
-I hope you enjoy it!
-
------------------------------------------------
 **Find more**
 
 - [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pietrodmedeiros)](https://github.com/pietrodmedeiros)
