@@ -9,9 +9,9 @@ I hope you enjoy it!
 -----------------------------------------------
 
 -  🖥️ Techlogy
--  🌎 Nature
 -  🧘 Meditation
 -  🎼 Music
+-  🌎 Nature
 -  ☮️ Peace
 
 -  🇧🇷 - Brazil - Porto Alegre
