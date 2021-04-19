@@ -6,7 +6,6 @@ Analysis and Systems Development (2º Semester)
 
 I hope you enjoy it!
 
------------------------------------------------
 
 -  🖥️ Techlogy
 -  🧘 Meditation
@@ -14,7 +13,7 @@ I hope you enjoy it!
 -  🌎 Nature
 -  ☮️ Peace
 
--  🇧🇷 - Brazil - Porto Alegre
+-  🇧🇷 Brazil - Porto Alegre
 
 **Find more**
 
