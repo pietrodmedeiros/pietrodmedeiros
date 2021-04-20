@@ -10,10 +10,8 @@ I hope you enjoy it!
 -  🖥️ Techlogy
 -  🧘 Meditation
 -  🎼 Music
--  🌎 Nature
--  ☮️ Peace
 
--  🇧🇷 Brazil - Porto Alegre
+-  Porto Alegre - Brazil
 
 ### Find more
 
